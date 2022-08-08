@@ -1,7 +1,7 @@
 # mapbox-gl
 
-Actualizar dependencias
-    -  npm install
+Actualizar dependencias - npm install
 
-Ejecutar proyecto en el puerto 3000
-    -  npm run start
+Ejecutar proyecto en el puerto 3000 - npm run start
+
+Kimberly Dayana Martinez Escalante
